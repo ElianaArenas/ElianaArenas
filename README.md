@@ -46,7 +46,7 @@
   <img src="https://profile-counter.glitch.me/Shwetang550/count.svg" />
 </p>
 
-## Quote
+## ✍️ Quote
 
 > 💡 Innovating today for a brighter tomorrow. 💡
 >

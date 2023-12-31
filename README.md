@@ -8,7 +8,7 @@
 </div>
 
 </br>
-- 🔭 I’m currently working on **different software projects**
+- 🔭 I’m currently working on different software projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

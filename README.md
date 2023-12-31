@@ -45,3 +45,11 @@
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/Shwetang550/count.svg" />
 </p>
+
+## Quote
+
+> 💡 Innovating today for a brighter tomorrow. 💡
+>
+> ---
+
+

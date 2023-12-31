@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Eliana Arenas</h1>
 <h3 align="center">A passionate software developer from Colombia</h3>
 
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 - 🔭 I’m currently working on **different software projects**
 
 <h3 align="left">Connect with me:</h3>
